@@ -1,0 +1,26 @@
+{
+  "collected_per_source": {
+    "Books to Scrape": 1000,
+    "Quotes to Scrape": 100
+  },
+  "raw_total": 1100,
+  "cleaned_per_source": {
+    "Books to Scrape": 1000,
+    "Quotes to Scrape": 100
+  },
+  "rejected_total": 0,
+  "rejected_by_reason": {},
+  "duplicates_detected": 1,
+  "final_record_count": 1099,
+  "reconciliation": {
+    "raw_total": 1100,
+    "minus_rejected": 0,
+    "minus_duplicates": 1,
+    "expected_final_count": 1099,
+    "actual_final_count": 1099,
+    "reconciles": true
+  },
+  "start_time": "2026-10-06T15:48:55.292065+00:00",
+  "end_time": "2026-10-06T15:50:24.342193+00:00",
+  "duration_seconds": 89.050128
+}
